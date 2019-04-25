@@ -1,7 +1,7 @@
 <a name="README"></a>
 # MOD01-Compact-Reservoir
 <img width="512" height="384" src="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir.jpg">
-<img width="512" height="384" src="">
+<img width="512" height="384" src="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir-Duck%20Edition.jpg">
 <BR>
 
 This Compact Reservoir is a modified version of the BW 2018 Ball Pump by Brian Alano.
@@ -17,7 +17,7 @@ The pumping mechanics of this reservoir are unchanged from the original design. 
 <P>Design: <a href="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir.io">Stud.io source (.IO)</a>
 
 <H2>Duck Edition</H2>
-<P>Instructions: 
+<P>Instructions: https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir-Duck%20Edition.pdf
 <P>Design: <a href="">Stud.io source (.IO)</a>
 
 
