@@ -16,6 +16,6 @@ The pumping mechanics of this reservoir are unchanged from the original design. 
 
 <P><a href="https://github.com/rykfield/REF00-Module-Overview"><B>All available modules and instructions</b></a>
 
-<P>Design: <a href="https://github.com/rykfield/MOD02-Lime-Wheel/raw/master/MOD02%20-%20Power%20Miners%20-%20Lime%20Wheel.io">Stud.io source (.IO)</a>
+<P>Design: <a href="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir.io">Stud.io source (.IO)</a>
 
 <P>You might also like The Great Ball Of China: https://www.youtube.com/watch?v=Vlvy_arx3Xg
