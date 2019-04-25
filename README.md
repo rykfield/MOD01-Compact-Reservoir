@@ -8,7 +8,7 @@ This Compact Reservoir is a modified version of the BW 2018 Ball Pump by Brian A
 I wanted to build a small reservoir module with large overhangs to use at corners of my GBC setup, and chose to modify this well-built, reliable ball pump for the purpose.
 <P>
 The pumping mechanics of this reservoir are unchanged from the original design.  Some structural and aesthetic changes have been made to support the geometry of this reservoir.
-<P>Video: Coming.
+<P>Video: https://www.youtube.com/watch?v=S6wE-c9V0Mc
 
 <P>Instructions: https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir.pdf
 
