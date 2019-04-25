@@ -1,11 +1,13 @@
 <a name="README"></a>
 # MOD01-Compact-Reservoir
 <table border=0><tr>
-<td>
+<td align='center'>
 <img width="384" height="288" src="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir.jpg">
+<BR>Standard Edition
 </td>
-<td>
+<td align='center'>
 <img width="384" height="288" src="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir-Duck%20Edition.jpg">
+<BR>Duck Edition<BR>With rotating output
 </td>
 </tr>
 </table>
