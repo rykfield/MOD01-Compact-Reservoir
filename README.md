@@ -7,7 +7,7 @@
 </td>
 <td align='center'>
 <img width="384" height="288" src="https://github.com/rykfield/MOD01-Compact-Reservoir/raw/master/MOD01%20-%20Compact%20Reservoir-Duck%20Edition.jpg">
-<BR>Duck Edition<BR>With rotating output
+<BR>Duck Edition, with GreatBallPit turntable
 </td>
 </tr>
 </table>
